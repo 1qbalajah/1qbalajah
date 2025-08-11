@@ -1,12 +1,10 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Muhammad+Iqbal;UI%2FUX+Designer;Front-End+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=false&width=500&lines=Hey%2C+I'm+Muhammad+Iqbal;UI%2FUX+Designer;Front-End+Developer;Always+Learning+New+Things" />
 </h1>
 
 <p align="left">
   <em>UI/UX Designer & Front-End Developer</em>
 </p>
-
----
 
 ## 📬 Connect With Me
 

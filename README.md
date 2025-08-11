@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=false&width=500&lines=Hey%2C+I'm+Muhammad+Iqbal;UI%2FUX+Designer;Front-End+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=35&color=00F7FF&center=false&width=900&lines=%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Iqbal+Asqalani;Welcome!!;I'm+UI%2FUX+Designer;Nice+to+meet+you+%E2%98%BA%EF%B8%8F" />
 </h1>
 
   <p align="left">
@@ -22,13 +22,7 @@
 ### 🛠 My Tools & Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" style="background-color:#2d2d2d; border-radius:10px; padding:8px; margin:5px;" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,postgres,nginx,git,github,firebase,arduino,linux,bootstrap,figma,ps,illustrator,postman&perline=10" /></a>
 </p>
 
 ### 💼 My Experience

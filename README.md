@@ -22,13 +22,13 @@
 ### 🛠 My Tools & Skills
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,postgres,nginx,git,github,firebase,arduino,linux,bootstrap,figma,ps,illustrator,postman&perline=10" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,nginx,git,github,firebase,arduino,linux,bootstrap,figma,ps,illustrator,postman&perline=10" /></a>
 </p>
 
 ### 💼 My Experience
 
 - 🏫 Created many websites used by schools  
-- 📚 Currently learning **Next.js & UI/UX Design Principles**  
+- 📚 Currently learning **React.js & UI/UX Design Principles**  
 - 🎯 Goals: Build scalable, user-friendly applications with modern design  
 - 🎲 Fun fact: I debug faster with coffee ☕  
 

@@ -39,3 +39,17 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1qbalajah&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+---
+
+### 🚀 My Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://best.smktibazma.com/" target="_blank">
+        <img src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2018/07/dewaweb-blog-segala-hal-tentang-website.png" alt="BEST(Bazma Excellent of Showcase" width="250px" />
+        <br>
+        <strong>BEST (Bazma Excellent Showcase of Talent)</strong>
+      </a>
+    </td>
